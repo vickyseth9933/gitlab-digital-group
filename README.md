@@ -1,3 +1,5 @@
+https://medium.com/@SergeyNuzhdin/how-to-easily-deploy-gitlab-on-kubernetes-75f5868cea78
+
 # kubernetes-gitlab
 Manifests to deploy GitLab on Kubernetes 
 
